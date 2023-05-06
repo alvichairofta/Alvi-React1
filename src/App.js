@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Legend Of React
+          The Legend Of React
         </a>
       </header>
     </div>
